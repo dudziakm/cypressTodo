@@ -33,6 +33,7 @@ jobs:
             - node_modules
             - ~/.npm
             - ~/.cache  ## cache both yarn and Cypress!
+            - ~/.cache/Cypress
           key: v1-dependencies-{{ checksum "package.json" }}
 
       # run tests!
