@@ -27,7 +27,7 @@ jobs:
             - v1-dependencies-
 
       - run: npm i
-      #- run: 
+      - run: npm i cypress
 
       - save_cache:
           paths:
