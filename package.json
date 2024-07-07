@@ -20,7 +20,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "concurrently": "^3.5.0",
-    "json-server": "^0.12.0",
+    "json-server": "^1.0.0-alpha.23",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-router-dom": "^4.2.2"
@@ -35,7 +35,7 @@
     "css-loader": "^6.7.1",
     "cypress": "^10.0.2",
     "html-webpack-plugin": "^5.5.0",
-    "start-server-and-test": "^1.9.1",
+    "start-server-and-test": "^1.15.4",
     "style-loader": "^3.3.1",
     "webpack": "^5.76.0"
   }
