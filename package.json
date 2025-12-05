@@ -18,25 +18,26 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2",
-    "concurrently": "^3.5.0",
-    "json-server": "^0.12.0",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "react-router-dom": "^4.2.2"
+    "axios": "1.13.2",
+    "concurrently": "9.1.0",
+    "json-server": "0.17.4",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-router-dom": "4.3.1"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
-    "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "babel-preset-env": "^1.6.0",
-    "babel-preset-react": "^6.24.1",
-    "ci": "^1.0.0",
-    "css-loader": "^6.7.1",
-    "cypress": "^10.0.2",
-    "html-webpack-plugin": "^5.5.0",
-    "start-server-and-test": "^1.9.1",
-    "style-loader": "^3.3.1",
-    "webpack": "^5.76.0"
+    "@babel/core": "7.26.0",
+    "@babel/preset-env": "7.26.0",
+    "@babel/preset-react": "7.25.9",
+    "@babel/plugin-transform-object-rest-spread": "7.25.9",
+    "babel-loader": "9.2.1",
+    "ci": "2.3.0",
+    "css-loader": "7.1.2",
+    "cypress": "13.16.0",
+    "html-webpack-plugin": "5.6.3",
+    "start-server-and-test": "2.0.8",
+    "style-loader": "4.0.0",
+    "webpack": "5.96.1",
+    "webpack-cli": "5.1.4"
   }
 }
